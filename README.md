@@ -1,2 +1,2 @@
 # emotion_detection
-speech emotion detection
+This ia a Deep Learning Project used to detect Emotion based upon voice.
