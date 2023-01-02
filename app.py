@@ -4,7 +4,6 @@ from flask import Flask, render_template, request
 import numpy as np
 from keras.models import load_model
 import librosa
-import os
 
 
 app = Flask(__name__)
